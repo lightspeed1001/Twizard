@@ -3804,3 +3804,27 @@ Make sure 'Anchor_Blueprint_C' has been compiled for  Start Rotation
 [2019.11.29-18.03.45:329][705]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2019.11.29-18.03.45:329][705]SourceControl:  create mode 100644 alpha/Content/Anchor_Blueprint.uasset
 [2019.11.29-18.03.45:360][705]SourceControl: Commited [master 4596a33] Rotation added to a self contained object..
+[2019.11.29-18.04.43:259][111]LogHttp: Warning: 00000169D61EBB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDB00C2B-4AB0-C779-13A5-68AAABFC3E38%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=daa00cb24624c40321cc218cae8662b7%7C303eb7e2921449c49015d4c9cf5547cb%7C14e13c4b-291b-4564-9278-389c22d7f5a3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.29-18.04.43:259][111]LogHttp: Warning: 00000169D61EBB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.29-18.04.43:259][111]LogHttp: Warning: 00000169D61EBB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.29-18.04.43:259][111]LogHttp: Warning: 00000169D61EBB00: libcurl info message cache 1 (Closing connection 40)
+[2019.11.29-18.04.43:259][111]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDB00C2B-4AB0-C779-13A5-68AAABFC3E38%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=daa00cb24624c40321cc218cae8662b7%7C303eb7e2921449c49015d4c9cf5547cb%7C14e13c4b-291b-4564-9278-389c22d7f5a3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.29-18.05.48:603][303]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2019.11.29-18.05.48:967][303]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.49:477][303]LogSlate: Window 'Anchor_Blueprint' being destroyed
+[2019.11.29-18.05.49:533][303]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.49:754][303]LogSlate: Window 'alpha - Unreal Editor' being destroyed
+[2019.11.29-18.05.49:773][303]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.29-18.05.50:893][304]Cmd: QUIT_EDITOR
+[2019.11.29-18.05.51:671][304]LogExit: Preparing to exit.
+[2019.11.29-18.05.52:670][304]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.52:675][304]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.52:680][304]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.52:685][304]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.52:689][304]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.53:017][304]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.29-18.05.53:293][304]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.29-18.05.53:294][304]LogExit: Editor shut down
+[2019.11.29-18.05.53:297][304]LogExit: Transaction tracking system shut down
+[2019.11.29-18.05.55:989][304]LogExit: Object subsystem successfully closed.
+[2019.11.29-18.05.56:231][304]LogShaderCompilers: Display: Shaders left to compile 0
