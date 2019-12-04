@@ -77,8 +77,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Assets
-Content/InfinityBladeEffects/
 Content/InfinityBladeFirelands/
 Content/InfinityBladeAdversaries/
 Content/ArchVisPolishPack02/
-Content/FXVarietyPack/
